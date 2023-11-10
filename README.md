@@ -9,8 +9,8 @@ Step 2: Setup Database Configuration
     - Create a DB with named "db_test" ( You can change the DB name in the .env file )
 
 Step 3: Create Migration
-    - php artisan migrate
-    - php artisan db:seed
+    - <pre><code>php artisan migrate</code></pre>
+    - <pre><code>php artisan db:seed</code></pre>
 
 Step 4: Run Laravel 10 Project
     - php artisan serve
